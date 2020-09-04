@@ -1,4 +1,4 @@
-# Getting and Cleaning Dat Project
+# Getting and Cleaning Data Project
 
 ##Source Data
 
